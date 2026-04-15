@@ -1,0 +1,58 @@
+{
+  "notes": [
+    {
+      "title": "ggggggggggg",
+      "content": "ffffffffffff",
+      "priority": "high",
+      "duration": "6735",
+      "id": 1
+    },
+    {
+      "title": "dfef44y3yt",
+      "content": "y5ywy6",
+      "priority": "high",
+      "duration": "ttttttttttttttttttttttttttttt",
+      "id": 2
+    },
+    {
+      "title": "hehreh",
+      "content": "hrhreh",
+      "priority": "high",
+      "duration": "1314",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$3cvf5QEZ67nFSzYpYScBiOcyghM9w/Y.2HoZs/9ZJC6qccHPv62Cq",
+      "id": 1
+    },
+    {
+      "email": "taovohoang2k6@gmail.com",
+      "password": "$2a$10$7kOf0osjSoAM4K9T4cBTQOFLWDP1m63FzhbzrdQd8NvcxHQAW3E1O",
+      "id": 2
+    },
+    {
+      "email": "taovohoang@gmail.com",
+      "password": "$2a$10$3YOOcfi6G2Jp5ISarPJIEu/h7ZT3yKVdHeKbOjQKtiDxZVjCdgej2",
+      "id": 3
+    },
+    {
+      "email": "vohoang2k6@gmail.com",
+      "password": "$2a$10$QQjdS2HnURgvM0Wvfzp//O9Th9nOBkgrjjQnWEiPhriRjazckS/XS",
+      "id": 4
+    },
+    {
+      "email": "taovo@gmail.com",
+      "password": "$2a$10$r9yfba7RLLM7vRv5VSYqxORa1MydRD/ZFAAQVv.P3QeDVSliozzCO",
+      "id": 5
+    },
+    {
+      "email": "abc@gmail.com",
+      "password": "$2a$10$3BzT0AY6J/p.b6Y/70L1mOaVdVXIjYiEaGK43a7pEx/3bvyJoL9jW",
+      "confirm": "123456",
+      "id": 6
+    }
+  ]
+}
